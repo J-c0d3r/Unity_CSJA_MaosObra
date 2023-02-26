@@ -33,5 +33,6 @@ public class Player : MonoBehaviour
         {
             transform.Rotate(-Vector3.up * rotation * Time.deltaTime);
         }
+
     }
 }
